@@ -32,7 +32,7 @@ The Proposed Speech Recognition System Consists of, <br>
 Firstly i have extracted the features of all audio files that contain specific tamil letter.<br>
 I have Extracted features such as freuqency, amplitude, Energy, Spectral Centroid. <br>
 I recorded the tamil letters in 16khz myself.<br>
-For Feature Extraction Process , MFCC And PLP Algorithms are used,<br>
+For Feature Extraction Process ,<b> MFCC</b> And <b>PLP</b> Algorithms are used,<br>
 
 MFCC - Mel Frequency Cepstral Coefficients<br>
 PLP - Perceptual Linear Prediction<br>
@@ -43,27 +43,27 @@ While MFCC is for most environments , it is not suited for noisy environments .<
 So to Recognize words even in a noisy environment , I have Used PLP along with MFCC.<br>
 For PLP , Dataset is recorded from noisy environments.<br>
 
-#Currently The Project Has been done upto this part.
+<h4>Currently The Project Has been done upto this part.</h4>
 
 Pending Works , 
 
-#2.Feature Mapping
+<h3>2.Feature Mapping</h3>
 
 As we have already Extracted the features of letters in tamil,<br>
 I'm thinking of using a Deep Neural Network to Map The Extracted Features to the Tamil Letters.<br>
-Particularly , LSTM (Long Short Term Memory)<br>
+Particularly , <b>LSTM</b> (Long Short Term Memory)<br>
 
 Input : Realtime audio
 Output : Recognized Letters
 
-#3.NGram Model<br>
+<h3>3.NGram Model</h3><br>
 
 To Increase the Accuracy  , I have planned to use an NGram model.<br>
 For a sentence, suppose if you have the sentence "எங்கு போகிறாய் நீ?" (Where are you going?). <br>
 To predict the next word, you can use the Ngram model to calculate the probability of each possible word that can follow the previous words.<br>
 The word with the highest probability is then chosen as the prediction for the next word.<br>
 
-To get maximum accuracy , Kneser-ney Smoothing Algorithm will be used.<br>
+To get maximum accuracy ,<b> Kneser-ney Smoothing</b> Algorithm will be used.<br>
 
 Before Knowing Kneser-Ney Smoothing ,  lets understand what bigram is,<br>
 A bigram refers to a sequence of two consecutive words or tokens in a given text. <br>
