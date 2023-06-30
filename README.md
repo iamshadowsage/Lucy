@@ -26,7 +26,6 @@ The Proposed Speech Recognition System Consists of, <br>
 3.Ngram Model for Prediction of Letters and Words.<br>
 
 
-
 <h3>1.Feature Extraction</h3>
 
 Firstly i have extracted the features of all audio files that contain specific tamil letter.<br>
