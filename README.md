@@ -9,9 +9,9 @@ let's know how it works ,
 
 Normally a Voice Assistant consists of,
 
-1.Speech To Text Engine (STT)
-2.NLP Processor
-3.Text To Speech (TTS)
+1.Speech To Text Engine (STT)<br>
+2.NLP Processor<br>
+3.Text To Speech (TTS)<br>
 
 Main goal of this Project is to Implement a working voice assistant in Tamil Language , as current assistants lack fluency and accuracy in a conversation.
 
@@ -21,7 +21,7 @@ In this Project , I took the first part which is "Speech To Text Engine", i wann
 
 The Proposed Speech Recognition System Consists of, 
 
-1.Feature Extraction.
-2.Feature Mapping.
-3.Ngram Model for Prediction of Letters and Words.
+1.Feature Extraction.<br>
+2.Feature Mapping.<br>
+3.Ngram Model for Prediction of Letters and Words.<br>
 
