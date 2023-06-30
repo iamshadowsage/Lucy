@@ -86,3 +86,19 @@ The basic idea of Kneser-Ney smoothing is to use the probability of a word being
 This probability is estimated using the number of distinct words that follow the bigram in the training corpus.<br>
 The smoothed probability of a word given the previous words is then a weighted combination of the unigram, bigram, and trigram probabilities.<br>
 
+
+
+
+@inproceedings{he-etal-2020-open,
+  title = {{Open-source Multi-speaker Speech Corpora for Building Gujarati, Kannada, Malayalam, Marathi, Tamil and Telugu Speech Synthesis Systems}},
+  author = {He, Fei and Chu, Shan-Hui Cathy and Kjartansson, Oddur and Rivera, Clara and Katanova, Anna and Gutkin, Alexander and Demirsahin, Isin and Johny, Cibu and Jansche, Martin and Sarin, Supheakmungkol and Pipatsrisawat, Knot},
+  booktitle = {Proceedings of The 12th Language Resources and Evaluation Conference (LREC)},
+  month = May,
+  year = {2020},
+  address = {Marseille, France},
+  publisher = {European Language Resources Association (ELRA)},
+  pages = {6494--6503},
+  url = {https://www.aclweb.org/anthology/2020.lrec-1.800},
+  ISBN = {979-10-95546-34-4},
+}
+
