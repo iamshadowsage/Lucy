@@ -27,7 +27,7 @@ The Proposed Speech Recognition System Consists of, <br>
 
 
 
-###1.Feature Extraction
+<h3>1.Feature Extraction</h3>
 
 Firstly i have extracted the features of all audio files that contain specific tamil letter.<br>
 I have Extracted features such as freuqency, amplitude, Energy, Spectral Centroid. <br>
