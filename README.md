@@ -42,7 +42,7 @@ While MFCC is for most environments , it is not suited for noisy environments .<
 So to Recognize words even in a noisy environment , I have Used PLP along with MFCC.<br>
 For PLP , Dataset is recorded from noisy environments.<br>
 
-<h4>Currently The Project Has been done upto this part.</h4>
+<h4>Note : Currently The Project Has been done upto this part.</h4>
 
 Pending Works , 
 
