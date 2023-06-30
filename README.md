@@ -63,6 +63,7 @@ To predict the next word, you can use the Ngram model to calculate the probabili
 The word with the highest probability is then chosen as the prediction for the next word.<br>
 
 <b>Dataset Used for NGram Models  - https://openslr.org/65/ </b><br>
+
 To get maximum accuracy ,<b> Kneser-ney Smoothing</b> Algorithm will be used.<br>
 
 Before Knowing Kneser-Ney Smoothing ,  lets understand what bigram is,<br>
