@@ -55,7 +55,7 @@ Particularly , <b>LSTM</b> (Long Short Term Memory)<br>
 Input : Realtime audio<br>
 Output : Recognized Letters<br>
 
-<h3>3.NGram Model</h3><br>
+<h3>3.NGram Model</h3>
 
 To Increase the Accuracy  , I have planned to use an NGram model.<br>
 For a sentence, suppose if you have the sentence "எங்கு போகிறாய் நீ?" (Where are you going?). <br>
