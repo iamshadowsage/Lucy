@@ -1,0 +1,2 @@
+# Lucy
+University Mini Project
