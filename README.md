@@ -20,6 +20,7 @@ And i also wanna implement an ml algorithm that would increase the accuracy of t
 In this Project , I took the first part which is "Speech To Text Engine", i wanna implement this without any external frameworks and mainly only with C++ as optimization of algorithms Plays a crucial part in this project .
 
 The Proposed Speech Recognition System Consists of, 
+
 1.Feature Extraction.
 2.Feature Mapping.
 3.Ngram Model for Prediction of Letters and Words.
