@@ -52,8 +52,8 @@ As we have already Extracted the features of letters in tamil,<br>
 I'm thinking of using a Deep Neural Network to Map The Extracted Features to the Tamil Letters.<br>
 Particularly , <b>LSTM</b> (Long Short Term Memory)<br>
 
-Input : Realtime audio
-Output : Recognized Letters
+Input : Realtime audio<br>
+Output : Recognized Letters<br>
 
 <h3>3.NGram Model</h3><br>
 
